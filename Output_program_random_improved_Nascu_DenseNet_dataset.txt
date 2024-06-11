@@ -1,0 +1,211 @@
+Frame features in train set: (410, 20, 1024)
+Frame masks in train set: (410, 20)
+Epoch 1/50
+9/9 [==============================] - ETA: 0s - loss: 1.0944 - accuracy: 0.3554
+Epoch 1: val_loss improved from inf to 1.32110, saving model to C:\Work\ML\Video_Classification\video_classifier\checkpoint
+9/9 [==============================] - 14s 710ms/step - loss: 1.0944 - accuracy: 0.3554 - val_loss: 1.3211 - val_accuracy: 0.0163
+Epoch 2/50
+9/9 [==============================] - ETA: 0s - loss: 0.9514 - accuracy: 0.5575
+Epoch 2: val_loss improved from 1.32110 to 1.05113, saving model to C:\Work\ML\Video_Classification\video_classifier\checkpoint
+9/9 [==============================] - 3s 365ms/step - loss: 0.9514 - accuracy: 0.5575 - val_loss: 1.0511 - val_accuracy: 0.4065
+Epoch 3/50
+9/9 [==============================] - ETA: 0s - loss: 0.8428 - accuracy: 0.6934
+Epoch 3: val_loss improved from 1.05113 to 0.65033, saving model to C:\Work\ML\Video_Classification\video_classifier\checkpoint
+9/9 [==============================] - 4s 433ms/step - loss: 0.8428 - accuracy: 0.6934 - val_loss: 0.6503 - val_accuracy: 0.9268
+Epoch 4/50
+9/9 [==============================] - ETA: 0s - loss: 0.7704 - accuracy: 0.7038
+Epoch 4: val_loss improved from 0.65033 to 0.63622, saving model to C:\Work\ML\Video_Classification\video_classifier\checkpoint
+9/9 [==============================] - 3s 386ms/step - loss: 0.7704 - accuracy: 0.7038 - val_loss: 0.6362 - val_accuracy: 0.9024
+Epoch 5/50
+9/9 [==============================] - ETA: 0s - loss: 0.6912 - accuracy: 0.7735
+Epoch 5: val_loss improved from 0.63622 to 0.49343, saving model to C:\Work\ML\Video_Classification\video_classifier\checkpoint
+9/9 [==============================] - 3s 354ms/step - loss: 0.6912 - accuracy: 0.7735 - val_loss: 0.4934 - val_accuracy: 0.9675
+Epoch 6/50
+9/9 [==============================] - ETA: 0s - loss: 0.6557 - accuracy: 0.8049
+Epoch 6: val_loss improved from 0.49343 to 0.43863, saving model to C:\Work\ML\Video_Classification\video_classifier\checkpoint
+9/9 [==============================] - 3s 358ms/step - loss: 0.6557 - accuracy: 0.8049 - val_loss: 0.4386 - val_accuracy: 0.9756
+Epoch 7/50
+9/9 [==============================] - ETA: 0s - loss: 0.5880 - accuracy: 0.8153
+Epoch 7: val_loss improved from 0.43863 to 0.43792, saving model to C:\Work\ML\Video_Classification\video_classifier\checkpoint
+9/9 [==============================] - 3s 357ms/step - loss: 0.5880 - accuracy: 0.8153 - val_loss: 0.4379 - val_accuracy: 0.9593
+Epoch 8/50
+9/9 [==============================] - ETA: 0s - loss: 0.5062 - accuracy: 0.8571
+Epoch 8: val_loss improved from 0.43792 to 0.38366, saving model to C:\Work\ML\Video_Classification\video_classifier\checkpoint
+9/9 [==============================] - 4s 437ms/step - loss: 0.5062 - accuracy: 0.8571 - val_loss: 0.3837 - val_accuracy: 0.9675
+Epoch 9/50
+9/9 [==============================] - ETA: 0s - loss: 0.4669 - accuracy: 0.8990
+Epoch 9: val_loss improved from 0.38366 to 0.36570, saving model to C:\Work\ML\Video_Classification\video_classifier\checkpoint
+9/9 [==============================] - 3s 372ms/step - loss: 0.4669 - accuracy: 0.8990 - val_loss: 0.3657 - val_accuracy: 0.9512
+Epoch 10/50
+9/9 [==============================] - ETA: 0s - loss: 0.4525 - accuracy: 0.8920
+Epoch 10: val_loss improved from 0.36570 to 0.29065, saving model to C:\Work\ML\Video_Classification\video_classifier\checkpoint
+9/9 [==============================] - 3s 371ms/step - loss: 0.4525 - accuracy: 0.8920 - val_loss: 0.2907 - val_accuracy: 0.9837
+Epoch 11/50
+9/9 [==============================] - ETA: 0s - loss: 0.4058 - accuracy: 0.9129
+Epoch 11: val_loss improved from 0.29065 to 0.24595, saving model to C:\Work\ML\Video_Classification\video_classifier\checkpoint
+9/9 [==============================] - 3s 365ms/step - loss: 0.4058 - accuracy: 0.9129 - val_loss: 0.2460 - val_accuracy: 0.9919
+Epoch 12/50
+9/9 [==============================] - ETA: 0s - loss: 0.3514 - accuracy: 0.9268
+Epoch 12: val_loss did not improve from 0.24595
+9/9 [==============================] - 4s 424ms/step - loss: 0.3514 - accuracy: 0.9268 - val_loss: 0.2593 - val_accuracy: 0.9837
+Epoch 13/50
+9/9 [==============================] - ETA: 0s - loss: 0.3124 - accuracy: 0.9408
+Epoch 13: val_loss improved from 0.24595 to 0.23934, saving model to C:\Work\ML\Video_Classification\video_classifier\checkpoint
+9/9 [==============================] - 3s 375ms/step - loss: 0.3124 - accuracy: 0.9408 - val_loss: 0.2393 - val_accuracy: 0.9756
+Epoch 14/50
+9/9 [==============================] - ETA: 0s - loss: 0.2713 - accuracy: 0.9652
+Epoch 14: val_loss improved from 0.23934 to 0.21287, saving model to C:\Work\ML\Video_Classification\video_classifier\checkpoint
+9/9 [==============================] - 3s 389ms/step - loss: 0.2713 - accuracy: 0.9652 - val_loss: 0.2129 - val_accuracy: 0.9837
+Epoch 15/50
+9/9 [==============================] - ETA: 0s - loss: 0.2888 - accuracy: 0.9617
+Epoch 15: val_loss improved from 0.21287 to 0.18284, saving model to C:\Work\ML\Video_Classification\video_classifier\checkpoint
+9/9 [==============================] - 3s 385ms/step - loss: 0.2888 - accuracy: 0.9617 - val_loss: 0.1828 - val_accuracy: 0.9919
+Epoch 16/50
+9/9 [==============================] - ETA: 0s - loss: 0.2536 - accuracy: 0.9582
+Epoch 16: val_loss improved from 0.18284 to 0.16092, saving model to C:\Work\ML\Video_Classification\video_classifier\checkpoint
+9/9 [==============================] - 3s 369ms/step - loss: 0.2536 - accuracy: 0.9582 - val_loss: 0.1609 - val_accuracy: 0.9919
+Epoch 17/50
+9/9 [==============================] - ETA: 0s - loss: 0.2369 - accuracy: 0.9547
+Epoch 17: val_loss improved from 0.16092 to 0.14908, saving model to C:\Work\ML\Video_Classification\video_classifier\checkpoint
+9/9 [==============================] - 4s 424ms/step - loss: 0.2369 - accuracy: 0.9547 - val_loss: 0.1491 - val_accuracy: 0.9919
+Epoch 18/50
+9/9 [==============================] - ETA: 0s - loss: 0.2372 - accuracy: 0.9686
+Epoch 18: val_loss improved from 0.14908 to 0.14856, saving model to C:\Work\ML\Video_Classification\video_classifier\checkpoint
+9/9 [==============================] - 3s 388ms/step - loss: 0.2372 - accuracy: 0.9686 - val_loss: 0.1486 - val_accuracy: 0.9919
+Epoch 19/50
+9/9 [==============================] - ETA: 0s - loss: 0.2025 - accuracy: 0.9721
+Epoch 19: val_loss improved from 0.14856 to 0.14548, saving model to C:\Work\ML\Video_Classification\video_classifier\checkpoint
+9/9 [==============================] - 3s 390ms/step - loss: 0.2025 - accuracy: 0.9721 - val_loss: 0.1455 - val_accuracy: 0.9837
+Epoch 20/50
+9/9 [==============================] - ETA: 0s - loss: 0.1792 - accuracy: 0.9721
+Epoch 20: val_loss improved from 0.14548 to 0.12764, saving model to C:\Work\ML\Video_Classification\video_classifier\checkpoint
+9/9 [==============================] - 3s 393ms/step - loss: 0.1792 - accuracy: 0.9721 - val_loss: 0.1276 - val_accuracy: 0.9837
+Epoch 21/50
+9/9 [==============================] - ETA: 0s - loss: 0.1708 - accuracy: 0.9895
+Epoch 21: val_loss improved from 0.12764 to 0.11244, saving model to C:\Work\ML\Video_Classification\video_classifier\checkpoint
+9/9 [==============================] - 4s 448ms/step - loss: 0.1708 - accuracy: 0.9895 - val_loss: 0.1124 - val_accuracy: 0.9919
+Epoch 22/50
+9/9 [==============================] - ETA: 0s - loss: 0.1680 - accuracy: 0.9861
+Epoch 22: val_loss improved from 0.11244 to 0.10429, saving model to C:\Work\ML\Video_Classification\video_classifier\checkpoint
+9/9 [==============================] - 3s 403ms/step - loss: 0.1680 - accuracy: 0.9861 - val_loss: 0.1043 - val_accuracy: 0.9919
+Epoch 23/50
+9/9 [==============================] - ETA: 0s - loss: 0.1511 - accuracy: 0.9895
+Epoch 23: val_loss improved from 0.10429 to 0.09826, saving model to C:\Work\ML\Video_Classification\video_classifier\checkpoint
+9/9 [==============================] - 3s 388ms/step - loss: 0.1511 - accuracy: 0.9895 - val_loss: 0.0983 - val_accuracy: 0.9919
+Epoch 24/50
+9/9 [==============================] - ETA: 0s - loss: 0.1315 - accuracy: 0.9826
+Epoch 24: val_loss improved from 0.09826 to 0.09424, saving model to C:\Work\ML\Video_Classification\video_classifier\checkpoint
+9/9 [==============================] - 3s 399ms/step - loss: 0.1315 - accuracy: 0.9826 - val_loss: 0.0942 - val_accuracy: 0.9919
+Epoch 25/50
+9/9 [==============================] - ETA: 0s - loss: 0.1411 - accuracy: 0.9826
+Epoch 25: val_loss did not improve from 0.09424
+9/9 [==============================] - 4s 498ms/step - loss: 0.1411 - accuracy: 0.9826 - val_loss: 0.0979 - val_accuracy: 0.9919
+Epoch 26/50
+9/9 [==============================] - ETA: 0s - loss: 0.1331 - accuracy: 0.9756
+Epoch 26: val_loss did not improve from 0.09424
+9/9 [==============================] - 4s 438ms/step - loss: 0.1331 - accuracy: 0.9756 - val_loss: 0.1037 - val_accuracy: 0.9919
+Epoch 27/50
+9/9 [==============================] - ETA: 0s - loss: 0.1290 - accuracy: 0.9826
+Epoch 27: val_loss did not improve from 0.09424
+9/9 [==============================] - 4s 409ms/step - loss: 0.1290 - accuracy: 0.9826 - val_loss: 0.0991 - val_accuracy: 0.9919
+Epoch 28/50
+9/9 [==============================] - ETA: 0s - loss: 0.1171 - accuracy: 0.9826
+Epoch 28: val_loss improved from 0.09424 to 0.09317, saving model to C:\Work\ML\Video_Classification\video_classifier\checkpoint
+9/9 [==============================] - 3s 380ms/step - loss: 0.1171 - accuracy: 0.9826 - val_loss: 0.0932 - val_accuracy: 0.9919
+Epoch 29/50
+9/9 [==============================] - ETA: 0s - loss: 0.1407 - accuracy: 0.9791
+Epoch 29: val_loss improved from 0.09317 to 0.08894, saving model to C:\Work\ML\Video_Classification\video_classifier\checkpoint
+9/9 [==============================] - 4s 444ms/step - loss: 0.1407 - accuracy: 0.9791 - val_loss: 0.0889 - val_accuracy: 0.9919
+Epoch 30/50
+9/9 [==============================] - ETA: 0s - loss: 0.1109 - accuracy: 0.9756
+Epoch 30: val_loss did not improve from 0.08894
+9/9 [==============================] - 3s 374ms/step - loss: 0.1109 - accuracy: 0.9756 - val_loss: 0.0946 - val_accuracy: 0.9919
+Epoch 31/50
+9/9 [==============================] - ETA: 0s - loss: 0.0901 - accuracy: 0.9895
+Epoch 31: val_loss did not improve from 0.08894
+9/9 [==============================] - 3s 387ms/step - loss: 0.0901 - accuracy: 0.9895 - val_loss: 0.0973 - val_accuracy: 0.9837
+Epoch 32/50
+9/9 [==============================] - ETA: 0s - loss: 0.1094 - accuracy: 0.9826
+Epoch 32: val_loss did not improve from 0.08894
+9/9 [==============================] - 3s 375ms/step - loss: 0.1094 - accuracy: 0.9826 - val_loss: 0.0895 - val_accuracy: 0.9919
+Epoch 33/50
+9/9 [==============================] - ETA: 0s - loss: 0.0934 - accuracy: 0.9791
+Epoch 33: val_loss improved from 0.08894 to 0.08780, saving model to C:\Work\ML\Video_Classification\video_classifier\checkpoint
+9/9 [==============================] - 4s 418ms/step - loss: 0.0934 - accuracy: 0.9791 - val_loss: 0.0878 - val_accuracy: 0.9919
+Epoch 34/50
+9/9 [==============================] - ETA: 0s - loss: 0.1103 - accuracy: 0.9721
+Epoch 34: val_loss did not improve from 0.08780
+9/9 [==============================] - 4s 392ms/step - loss: 0.1103 - accuracy: 0.9721 - val_loss: 0.0879 - val_accuracy: 0.9919
+Epoch 35/50
+9/9 [==============================] - ETA: 0s - loss: 0.0992 - accuracy: 0.9791
+Epoch 35: val_loss improved from 0.08780 to 0.08027, saving model to C:\Work\ML\Video_Classification\video_classifier\checkpoint
+9/9 [==============================] - 3s 378ms/step - loss: 0.0992 - accuracy: 0.9791 - val_loss: 0.0803 - val_accuracy: 0.9919
+Epoch 36/50
+9/9 [==============================] - ETA: 0s - loss: 0.0656 - accuracy: 0.9895
+Epoch 36: val_loss improved from 0.08027 to 0.07992, saving model to C:\Work\ML\Video_Classification\video_classifier\checkpoint
+9/9 [==============================] - 3s 392ms/step - loss: 0.0656 - accuracy: 0.9895 - val_loss: 0.0799 - val_accuracy: 0.9919
+Epoch 37/50
+9/9 [==============================] - ETA: 0s - loss: 0.0829 - accuracy: 0.9861
+Epoch 37: val_loss did not improve from 0.07992
+9/9 [==============================] - 3s 374ms/step - loss: 0.0829 - accuracy: 0.9861 - val_loss: 0.0843 - val_accuracy: 0.9919
+Epoch 38/50
+9/9 [==============================] - ETA: 0s - loss: 0.0732 - accuracy: 0.9861
+Epoch 38: val_loss did not improve from 0.07992
+9/9 [==============================] - 4s 430ms/step - loss: 0.0732 - accuracy: 0.9861 - val_loss: 0.0906 - val_accuracy: 0.9837
+Epoch 39/50
+9/9 [==============================] - ETA: 0s - loss: 0.0645 - accuracy: 0.9930
+Epoch 39: val_loss did not improve from 0.07992
+9/9 [==============================] - 3s 385ms/step - loss: 0.0645 - accuracy: 0.9930 - val_loss: 0.0931 - val_accuracy: 0.9837
+Epoch 40/50
+9/9 [==============================] - ETA: 0s - loss: 0.0668 - accuracy: 0.9861
+Epoch 40: val_loss improved from 0.07992 to 0.07667, saving model to C:\Work\ML\Video_Classification\video_classifier\checkpoint
+9/9 [==============================] - 3s 371ms/step - loss: 0.0668 - accuracy: 0.9861 - val_loss: 0.0767 - val_accuracy: 0.9919
+Epoch 41/50
+9/9 [==============================] - ETA: 0s - loss: 0.0591 - accuracy: 0.9861
+Epoch 41: val_loss improved from 0.07667 to 0.06978, saving model to C:\Work\ML\Video_Classification\video_classifier\checkpoint
+9/9 [==============================] - 3s 360ms/step - loss: 0.0591 - accuracy: 0.9861 - val_loss: 0.0698 - val_accuracy: 0.9919
+Epoch 42/50
+9/9 [==============================] - ETA: 0s - loss: 0.0613 - accuracy: 0.9930
+Epoch 42: val_loss did not improve from 0.06978
+9/9 [==============================] - 4s 420ms/step - loss: 0.0613 - accuracy: 0.9930 - val_loss: 0.0719 - val_accuracy: 0.9837
+Epoch 43/50
+9/9 [==============================] - ETA: 0s - loss: 0.0783 - accuracy: 0.9721
+Epoch 43: val_loss did not improve from 0.06978
+9/9 [==============================] - 3s 362ms/step - loss: 0.0783 - accuracy: 0.9721 - val_loss: 0.0840 - val_accuracy: 0.9837
+Epoch 44/50
+9/9 [==============================] - ETA: 0s - loss: 0.0696 - accuracy: 0.9756
+Epoch 44: val_loss did not improve from 0.06978
+9/9 [==============================] - 3s 378ms/step - loss: 0.0696 - accuracy: 0.9756 - val_loss: 0.0834 - val_accuracy: 0.9837
+Epoch 45/50
+9/9 [==============================] - ETA: 0s - loss: 0.0630 - accuracy: 0.9895
+Epoch 45: val_loss did not improve from 0.06978
+9/9 [==============================] - 4s 422ms/step - loss: 0.0630 - accuracy: 0.9895 - val_loss: 0.0807 - val_accuracy: 0.9837
+Epoch 46/50
+9/9 [==============================] - ETA: 0s - loss: 0.0679 - accuracy: 0.9930
+Epoch 46: val_loss did not improve from 0.06978
+9/9 [==============================] - 4s 411ms/step - loss: 0.0679 - accuracy: 0.9930 - val_loss: 0.0761 - val_accuracy: 0.9837
+Epoch 47/50
+9/9 [==============================] - ETA: 0s - loss: 0.0617 - accuracy: 0.9826
+Epoch 47: val_loss did not improve from 0.06978
+9/9 [==============================] - 4s 402ms/step - loss: 0.0617 - accuracy: 0.9826 - val_loss: 0.0711 - val_accuracy: 0.9919
+Epoch 48/50
+9/9 [==============================] - ETA: 0s - loss: 0.0596 - accuracy: 0.9826
+Epoch 48: val_loss improved from 0.06978 to 0.06841, saving model to C:\Work\ML\Video_Classification\video_classifier\checkpoint
+9/9 [==============================] - 3s 382ms/step - loss: 0.0596 - accuracy: 0.9826 - val_loss: 0.0684 - val_accuracy: 0.9919
+Epoch 49/50
+9/9 [==============================] - ETA: 0s - loss: 0.0672 - accuracy: 0.9721
+Epoch 49: val_loss improved from 0.06841 to 0.06599, saving model to C:\Work\ML\Video_Classification\video_classifier\checkpoint
+9/9 [==============================] - 3s 371ms/step - loss: 0.0672 - accuracy: 0.9721 - val_loss: 0.0660 - val_accuracy: 0.9837
+Epoch 50/50
+9/9 [==============================] - ETA: 0s - loss: 0.0579 - accuracy: 0.9791
+Epoch 50: val_loss did not improve from 0.06599
+9/9 [==============================] - 3s 367ms/step - loss: 0.0579 - accuracy: 0.9791 - val_loss: 0.0665 - val_accuracy: 0.9837
+4/4 [==============================] - 1s 115ms/step - loss: 0.0278 - accuracy: 0.9902
+Test accuracy: 99.02%
+Test video path: v_PlayingCello_g05_c01.avi
+1/1 [==============================] - 3s 3s/step
+  bullying: 41.61%
+  bodyBuilding: 34.47%
+  waterSports: 23.92%
+
+Process finished with exit code 0
